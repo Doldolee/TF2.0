@@ -6,3 +6,5 @@
 ### 알고리즘
 - logistic regression
 - ANN
+- AutoEncoder
+- char-RNN
