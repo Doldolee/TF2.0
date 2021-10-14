@@ -4,6 +4,7 @@
 - TF2.0을 이용한 딥러닝 모델 구현
 
 ### 알고리즘
+- Gradient Descent
 - logistic regression
 - ANN
 - AutoEncoder
